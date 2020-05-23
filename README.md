@@ -1,2 +1,2 @@
 # mail
-vue项目
+vue全家桶项目
